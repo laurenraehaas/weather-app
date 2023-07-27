@@ -1,1 +1,29 @@
+header {
+    background-color: #1c2835;
+    min-height: 7vh;
+}
 
+main {
+    min-height: 93vh;
+}
+
+#search {
+    background-color: #ebece9;
+}
+
+
+
+.forecast-card {
+    width: 15%;
+    height: 60%;
+    background-color: #666666;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 4);
+}
+
+.city-buttons {
+
+}
