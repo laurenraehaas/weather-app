@@ -11,8 +11,22 @@ main {
     background-color: #ebece9;
 }
 
+#current-bg {
+    background-color: #556177;
+}
 
+#five-day {
+    background-color: #2a303c;
+    color: #f1f5f2;
+}
 
+.row-height {
+    min-height: 93vh;
+}
+
+.col-height {
+    min-height: 46.5vh;
+}
 .forecast-card {
     width: 15%;
     height: 60%;
@@ -21,9 +35,9 @@ main {
     justify-content: space-evenly;
     align-items: center;
     flex-direction: column;
-    box-shadow: 5px 5px 5px rgba(0, 0, 0, 4);
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.4);
 }
 
 .city-buttons {
-
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.4);
 }
