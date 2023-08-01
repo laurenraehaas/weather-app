@@ -24,3 +24,6 @@ THEN I am again presented with current and future conditions for that city
 
 https://laurenraehaas.github.io/weather-app/
 
+![UofM homework 6 1](https://github.com/laurenraehaas/weather-app/assets/123714943/254c585f-75bf-406f-8e47-9f8c6119bda2)
+
+![UofM homework 6 2](https://github.com/laurenraehaas/weather-app/assets/123714943/12c960df-ac49-4683-9a35-94c9261cbaed)
