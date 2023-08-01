@@ -160,7 +160,7 @@ const getHistory = () => {
     }
     for(let i = 0; i < searchHistory.length; i++) {
         let citiesEl = document.createElement("button")
-        citiesEl.classList.add("btn", "mb-3")
+        citiesEl.classList.add("btn", "mb-3", "city-buttons")
         citiesEl.textContent = searchHistory[i]
         cityListEl.append(citiesEl)
     }
